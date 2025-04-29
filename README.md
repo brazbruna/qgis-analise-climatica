@@ -38,12 +38,17 @@ analise-climatica-pe/ │ ├── dados/ │ ├── shapefiles/ # Arquivos 
   - A bacia do Rio Ipojuca
   - O município de Caruaru
 
-## Imagens
+## Exemplos de Mapas Gerados
 
-- Mapa de precipitação anual em Pernambuco
+###  Mapa de Precipitação - Estado de Pernambuco
+![Mapa de Precipitação](imagens/mapa-precipitação.png)
 
-- Mapa do relevo da bacia do Rio Ipojuca
-- Mapa da temperatura média anual de Caruaru
+###  Mapa de Temperatura Média - Município de Caruaru
+![Mapa de Temperatura](imagens/mapa-temp-caruaru.png)
+
+###  Mapa de Elevação (MDE) - Bacia Hidrográfica do Rio Ipojuca
+![Mapa de Elevação](imagens/mapa-elevacao-bacia.png)
+
 
 ## Autor(a)
 
